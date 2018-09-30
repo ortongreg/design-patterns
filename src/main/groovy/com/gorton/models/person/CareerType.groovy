@@ -1,6 +1,6 @@
 package com.gorton.models.person
 
-enum PersonType {
+enum CareerType {
     LAWYER,
     SOCIAL_WORKER
 }

@@ -1,5 +1,5 @@
 package com.gorton.models.person
 
-class Lawyer implements Person {
-    String career() { "Lawyer" }
+class Lawyer implements Career {
+    String careerName() { "Lawyer" }
 }

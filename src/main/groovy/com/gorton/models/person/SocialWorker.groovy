@@ -1,5 +1,5 @@
 package com.gorton.models.person
 
-class SocialWorker implements Person {
-    String career() { "Social Worker" }
+class SocialWorker implements Career {
+    String careerName() { "Social Worker" }
 }
