@@ -1,4 +1,4 @@
-package com.gorton.structural
+package com.gorton.structural.adapter
 
 import com.gorton.models.person.Career
 import com.gorton.models.person.Student
