@@ -14,6 +14,8 @@ class PaintableTransportation extends AbstractTransportationDecorator {
         this.color = color
     }
 
+    String getColor(){ color }
+
     @Override
     String goGoGo(){
         "${super.goGoGo()} while ${color}"
